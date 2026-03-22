@@ -5,11 +5,13 @@
 
 ## Dataset
 
-2007_to_2018Q4
-https://www.kaggle.com/datasets/wordsforthewise/lending-club
+- (Lending Club 2008-2020Q1)[https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1]
 
-2007_to_2020Q3
-https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1?select=Loan_status_2007-2020Q3.gzip
+Download the dataset via Kaggle commandline tools
+
+```bash
+kaggle datasets download ethon0426/lending-club-20072020q1
+```
 
 
 ## Preprocessing
