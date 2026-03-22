@@ -45,3 +45,7 @@ class Var:
         'earliest_cr_line',
         'sec_app_earliest_cr_line',
     )
+
+    unused_features: tuple = (
+        'policy_code',
+    )

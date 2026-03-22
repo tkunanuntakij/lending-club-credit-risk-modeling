@@ -5,7 +5,7 @@
 
 ## Dataset
 
-- (Lending Club 2008-2020Q1)[https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1]
+- [Lending Club 2008-2020Q1](https://www.kaggle.com/datasets/ethon0426/lending-club-20072020q1)
 
 Download the dataset via Kaggle commandline tools
 
@@ -23,3 +23,6 @@ kaggle datasets download ethon0426/lending-club-20072020q1
 
 - combine info for loan with co-borrower
 - convert data into parquet
+
+
+https://gnpalencia.org/optbinning/installation.html
